@@ -20,7 +20,7 @@ Here is a list of the projects currently included in this repository. Click on a
 
 1.  **Clone the repository:**
     ```bash
-    git clone 
+    git clone https://github.com/Avinash55o/python_backend_projects.git
     ```
 2.  **Explore a Project:** Navigate into any project folder to see its code and individual `README.md` file for instructions on how to run it.
     ```bash
